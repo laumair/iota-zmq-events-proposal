@@ -1,0 +1,22 @@
+{
+  "name": "wallet-spec",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iotaledger/wallet-spec.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iotaledger/wallet-spec/issues"
+  },
+  "homepage": "https://github.com/iotaledger/wallet-spec#readme",
+  "dependencies": {
+    "zeromq": "^6.0.0-beta.6"
+  }
+}
